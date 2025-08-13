@@ -2,5 +2,7 @@
 title: Rifters
 draft: 
 tags:
-  - character
+  - characters
+publish: true
 ---
+Hi!

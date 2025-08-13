@@ -36,7 +36,7 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "© Starnova Studios - All Rights Reserved - ",
     },
     graph: {
       title: "Graph View",

@@ -1,9 +1,8 @@
 ---
 title: Welcome to Quartz
 draft: 
-tags:
+tags: 
+publish: true
 ---
-
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
