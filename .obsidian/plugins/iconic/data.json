@@ -28,34 +28,7 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {
-    "content": {
-      "icon": "lucide-home",
-      "color": "green",
-      "unsynced": [
-        "9a91e971f5ce5075",
-        "a4771f68030eacf8"
-      ]
-    },
-    "content/Characters": {
-      "icon": "lucide-person-standing",
-      "unsynced": [
-        "a4771f68030eacf8"
-      ],
-      "color": "cyan"
-    },
-    "content/Guides": {
-      "icon": "question-mark-glyph",
-      "unsynced": [
-        "a4771f68030eacf8"
-      ],
-      "color": "green"
-    },
-    "content/index.md": {
-      "icon": "lucide-package",
-      "color": "purple"
-    }
-  },
+  "fileIcons": {},
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
