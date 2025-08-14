@@ -90,8 +90,8 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages({
-	colorScheme: "darkMode",
-	excludeRoot: true
+        colorScheme: "lightMode",
+        excludeRoot: true
       }),
     ],
   },
