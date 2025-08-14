@@ -28,11 +28,7 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {
-    "content/World/Locations/Ars.md": {
-      "icon": "lucide-sprout"
-    }
-  },
+  "fileIcons": {},
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
