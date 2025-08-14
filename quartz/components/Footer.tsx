@@ -24,6 +24,9 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <p style={{ fontSize: "0.7em", marginTop: "0.1em" }}>
+          Soul Realms is not an official Minecraft product. Soul Realms is not approved by or associated with Mojang or Microsoft.
+        </p>
       </footer>
     )
   }
