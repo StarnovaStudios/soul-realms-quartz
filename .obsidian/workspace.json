@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "7f743b57d5e8e1b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "80dcbd78b431d9f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fee7f4777db47e54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "218003ae96eb12ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "52159a0c96605ea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8f311420787a47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b893b79592f8f67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8ac079f672de878a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a06389ee5c6901a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8e7bd75cc950108",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c99cef87d05f0c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/Guides/How to Join Soul Realms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How to Join Soul Realms"
+            }
+          },
+          {
+            "id": "916b4dd7c1fe3745",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/Guides/How to Join Soul Realms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from How to Join Soul Realms"
+            }
+          },
+          {
+            "id": "bd388d70f77d7553",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "05286bc78e7182d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/Guides/How to Join Soul Realms.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How to Join Soul Realms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "iconic:Open rulebook": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "fee7f4777db47e54",
+  "lastOpenFiles": [
+    "content/Guides/How to Join Soul Realms.md",
+    "content/index.md",
+    "content/Characters/Rifters.md",
+    "Rifter.md",
+    "public/index-og-image.webp",
+    "public/Guides/How-to-Join-Soul-Realms-og-image.webp",
+    "public/Rifter.html",
+    "public/postscript.js",
+    "public/prescript.js",
+    "public/index.html",
+    "public/index.css",
+    "public/tags/index.html",
+    "public/static/contentIndex.json",
+    "public/static/giscus/light.css",
+    "public/static/giscus/dark.css",
+    "public/static/giscus",
+    "public/static/og-image.png",
+    "public/Characters/Rifters-og-image.webp",
+    "public/static/icon.png",
+    "quartz/static/icon.png",
+    "quartz/static/logo.png",
+    "content/Characters/Untitled.md",
+    "public/Characters/Untitled-og-image.webp",
+    "public/Guides/Untitled-og-image.webp",
+    "content/prism rose.md",
+    "public/prism-rose-og-image.webp",
+    "content/content/Characters/Rifters.md",
+    "content/content/Characters/Untitled.md",
+    "content/content/index.md",
+    "quartz/styles/themes/README.md",
+    "content/hi.md",
+    "node_modules/content-disposition/README.md",
+    "node_modules/ms/license.md",
+    "docs/examples.md",
+    "docs/index.md",
+    "CODE_OF_CONDUCT.md",
+    "Untitled 1.md",
+    "docs/authoring content.md"
+  ]
+}

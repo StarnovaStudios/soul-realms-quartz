@@ -1,0 +1,10 @@
+{
+  "showVaultName": true,
+  "showCurrentFileName": true,
+  "showPopups": true,
+  "customVaultName": "Soul Realms Quartz",
+  "showFileExtension": true,
+  "useLoadedTime": true,
+  "connectOnStart": true,
+  "autoHideStatusBar": true
+}

@@ -1,0 +1,46 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "content": {
+      "icon": "lucide-home",
+      "color": "green",
+      "unsynced": [
+        "9a91e971f5ce5075"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

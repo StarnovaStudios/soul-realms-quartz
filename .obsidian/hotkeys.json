@@ -1,0 +1,13 @@
+{
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ]
+}
