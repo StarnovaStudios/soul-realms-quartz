@@ -11,8 +11,9 @@ tsconfig.tsbuildinfo
 !.obsidian/plugins/file-explorer-plus/
 !.obsidian/plugins/iconic/
 !.obsidian/plugins/obsidian-discordrpc/
-!.obsidian/plugins/omnisearch
-!.obsidian/plugins/recent-files-obsidian
+!.obsidian/plugins/omnisearch/
+!.obsidian/plugins/recent-files-obsidian/
+!.obsidian/plugins/slash-commander/
 
 .quartz-cache
 private/

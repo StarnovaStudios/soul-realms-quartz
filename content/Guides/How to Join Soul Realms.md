@@ -3,8 +3,7 @@ title: How to Join
 draft: 
 tags:
   - guides
-publish: true
-aliases: []
+aliases:
 ---
 Ready to hop into the Ars? We've got you covered!
 ## ☕ Java Edition

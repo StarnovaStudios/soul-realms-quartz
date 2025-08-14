@@ -5,6 +5,7 @@ Editing this wiki is recommended to be done via [Obsidian](https://obsidian.md) 
 
 You can learn more about how to Author Content with Quartz [here](https://quartz.jzhao.xyz/authoring-content)
 
+
 ## Scribe Team
 Are you a writer or someone who jotting things down? Apply for our **Scribe Team!**
 
