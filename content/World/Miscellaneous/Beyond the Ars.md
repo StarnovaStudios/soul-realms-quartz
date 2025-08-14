@@ -2,6 +2,7 @@
 aliases: 
 tags:
   - "#space"
+  - world
 draft: 
 title: Beyond the Ars
 ---

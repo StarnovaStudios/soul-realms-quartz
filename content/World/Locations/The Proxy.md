@@ -3,6 +3,7 @@ aliases:
 tags:
   - "#space"
   - "#dimension"
+  - world
 draft: 
 title: The Proxy
 ---

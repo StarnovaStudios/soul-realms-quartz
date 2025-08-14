@@ -4,6 +4,7 @@ draft:
 tags:
   - life
   - characters
+  - world
 aliases:
   - Rifter
 ---

@@ -1,6 +1,11 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+Component.Explorer({
+  title: "Navigator",
+  folderDefaultState: "open",
+})
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -9,7 +14,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Official Store": "https://store.soulrealms.net/",
-      "Community Discord": "https://discord.soulrealms.net/",
+      "Official Discord": "https://discord.soulrealms.net/",
     },
   }),
 }
@@ -66,14 +71,3 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
-
-Component.Explorer({
-  filterFn: undefined, // apply no filter function, every file and folder will visible
-  mapFn: (node) => {
-    if (node.isFolder) {
-      node.displayName = "📁 " + node.displayName
-    } else {
-      node.displayName = "📄 " + node.displayName
-    }
-  }, 
-})

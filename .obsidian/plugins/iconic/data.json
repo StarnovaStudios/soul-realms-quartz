@@ -28,7 +28,28 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "content/Guides": {
+      "icon": "lucide-book",
+      "unsynced": [
+        "a4771f68030eacf8"
+      ],
+      "color": "purple"
+    },
+    "content/World": {
+      "icon": "lucide-globe-2",
+      "unsynced": [
+        "a4771f68030eacf8"
+      ],
+      "color": "green"
+    },
+    "content/World/Entities/Ancient Creatures.md": {
+      "icon": "lucide-timer-off"
+    },
+    "content/World/World Codex.md": {
+      "icon": "lucide-compass"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

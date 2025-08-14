@@ -3,6 +3,7 @@ title: How to Join
 draft: 
 tags:
   - guides
+  - server
 aliases:
 ---
 Ready to hop into the Ars? We've got you covered!
