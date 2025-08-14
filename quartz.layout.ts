@@ -3,7 +3,6 @@ import * as Component from "./quartz/components"
 
 Component.Explorer({
   title: "Navigator",
-  folderDefaultState: "open",
 })
 
 // components shared across all pages
