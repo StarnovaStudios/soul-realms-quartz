@@ -5,6 +5,12 @@ node_modules
 prof
 tsconfig.tsbuildinfo
 #.obsidian
+
+.obsidian/appearance.json
+.obsidian/workspace.json
+.obsidian/themes/
+.obsidian/hotkeys.json
+
 .quartz-cache
 private/
 .replit
