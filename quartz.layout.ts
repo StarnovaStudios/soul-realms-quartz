@@ -66,3 +66,15 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+Component.Explorer({
+  filterFn: undefined, // apply no filter function, every file and folder will visible
+  /* mapFn: (node) => {
+    if (node.isFolder) {
+      node.displayName = "📁 " + node.displayName
+    } else {
+      node.displayName = "📄 " + node.displayName
+    }
+  },
+  */
+})
