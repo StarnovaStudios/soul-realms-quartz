@@ -5,5 +5,6 @@ tags:
   - characters
 publish: true
 aliases:
+  - Rifter
 ---
 Hi!
