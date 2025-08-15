@@ -14,6 +14,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Official Store": "https://store.soulrealms.net/",
       "Official Discord": "https://discord.soulrealms.net/",
+      "GitHub": "https://github.com/StarnovaStudios/soul-realms-quartz/",
     },
   }),
 }
