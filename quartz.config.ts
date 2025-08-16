@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      //provider: "plausible",
     },
     locale: "en-US",
     baseUrl: "wiki.soulrealms.net",
