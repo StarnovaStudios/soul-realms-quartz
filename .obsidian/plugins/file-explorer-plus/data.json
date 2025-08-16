@@ -17,6 +17,13 @@
         "type": "FILES_AND_DIRECTORIES",
         "pattern": "",
         "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "content",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
@@ -59,6 +66,13 @@
         "active": true,
         "type": "DIRECTORIES",
         "pattern": "node_modules",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "public",
         "patternType": "STRICT"
       },
       {

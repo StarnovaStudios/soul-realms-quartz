@@ -7,7 +7,7 @@ tags:
   - world
 aliases:
 ---
-> [!QUOTE] The First Hero
+> [!QUOTE] [[The First Hero]]
 > Gargantuan. That's the only word to describe it. It was a gargantuan sea creature that filled not just the ocean but every river in the realm.
 
 Jrimp was one of the three [[Ancient Creatures]] that previously occupied the [[Ars]]. It was slain by [[The First Hero]] and the remnants of its' body occupy every sea creature in the realm.

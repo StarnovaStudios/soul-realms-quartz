@@ -32,14 +32,16 @@
     "content/Guides": {
       "icon": "lucide-book",
       "unsynced": [
-        "a4771f68030eacf8"
+        "a4771f68030eacf8",
+        "9a91e971f5ce5075"
       ],
       "color": "purple"
     },
     "content/World": {
       "icon": "lucide-globe-2",
       "unsynced": [
-        "a4771f68030eacf8"
+        "a4771f68030eacf8",
+        "9a91e971f5ce5075"
       ],
       "color": "green"
     },
