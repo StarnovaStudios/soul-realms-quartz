@@ -18,3 +18,5 @@ Heralds are considered as some of the most powerful among the [[Arsborne]]. Howe
 #### Starseering
 Heralds have a direct connection to the [[Ars Star]] and can periodically share visions, otherwise known as premonitions, through this connection. Heralds have no direct control over the timing or length of their visions, however, they showcase incoming danger to the Herald themselves or the Ars as a whole. They are also able to predict the descension of [[Heroes]].
 Likely their most powerful ability is to sense [[corruption]]. Due to the absolute contrast of corruption against the Ars Star, Heralds feel a direct disconnect when corruption is rising or attempting rise in an area. When a Herald warns of corruption – it is considered an immediate evacuation order.
+
+**TODO NEEDS MORE**
