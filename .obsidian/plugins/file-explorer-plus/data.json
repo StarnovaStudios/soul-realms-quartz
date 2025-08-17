@@ -72,13 +72,6 @@
         "name": "",
         "active": true,
         "type": "DIRECTORIES",
-        "pattern": "public",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
         "pattern": "quartz",
         "patternType": "STRICT"
       },
