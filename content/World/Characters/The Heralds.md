@@ -1,10 +1,11 @@
 ---
 title: The Heralds
-draft: 
+draft:
 tags:
   - life
   - characters
   - world
+  - npc
 aliases:
   - Heralds
 ---
