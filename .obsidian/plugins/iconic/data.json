@@ -32,23 +32,14 @@
     "content/Guides": {
       "icon": "lucide-book",
       "unsynced": [
-        "a4771f68030eacf8",
-        "9a91e971f5ce5075"
+        "a4771f68030eacf8"
       ],
       "color": "purple"
-    },
-    "content/Posts": {
-      "icon": "lucide-megaphone",
-      "color": "purple",
-      "unsynced": [
-        "9a91e971f5ce5075"
-      ]
     },
     "content/World": {
       "icon": "lucide-globe-2",
       "unsynced": [
-        "a4771f68030eacf8",
-        "9a91e971f5ce5075"
+        "a4771f68030eacf8"
       ],
       "color": "green"
     },
