@@ -1,5 +1,5 @@
 ---
-title: Rifters
+title: Arie Solaryn
 draft:
 tags:
   - life
