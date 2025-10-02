@@ -9,5 +9,5 @@ tags:
 aliases:
   - Witch
 ---
-<details> <summary>You stare into the Domain of the Witch</summary> <p><b>The Witch Stares Back.</b></p> </details>
+<details> <summary>You stare into the Domain of the Witch</summary> <p>The Witch Stares Back.</p> </details>
 

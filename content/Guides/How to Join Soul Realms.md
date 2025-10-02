@@ -9,6 +9,7 @@ aliases:
 Ready to hop into the Ars? We've got you covered!
 ## ☕ Java Edition
 Java Edition includes the PC Version of Minecraft. You can purchase it [here](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc?tabs=%7B%22details%22%3A0%7D)
+
 1) Launch Minecraft [We recommend playing on version 1.21.4!]
 2) Open "Multiplayer"
 3) Click "Add Server"

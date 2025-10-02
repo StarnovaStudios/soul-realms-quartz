@@ -1,29 +1,29 @@
 ---
 title: Rifters
-draft: 
+draft:
 tags:
   - life
   - characters
   - world
+  - organizations
 aliases:
   - Rifter
 ---
-
 > [!QUOTE] [[The Heralds]]
 > Rifters are outsiders, mistakes, abnormalities. Their existence is beyond the understanding of any person, monster, or even themselves. Exiles of [[The Rift]] with the only information on their origins as being from [[The Proxy]].
 
-Rifters are the name for players within the [[Ars]]. All players who join are considered Rifters, as their existence extends from beyond The Realm. However, not Rifters within the Ars have necessarily been players. Historically, the entrance of Rifters into the Realm is typically the sign of a great change, loss, or tensions within The Realm. They are harbingers of light, darkness, or both.
+Rifters are the name for players within the [[Ars]]. All players who join are considered Rifters. Historically, the entrance of Rifters into the Realm is typically the sign of a great change, loss, or tensions within The Realm. They are harbingers of light, darkness, or both. It also a title for those of with high levels of [[Rift Energy|NREF]].
 
 The effects of Rifters can be seen throughout the History of the Ars. It's known that the [[First Hero]], [[Second Hero]], [[Fallen Hero]], and [[Crimson Witch]] were all Rifters.
 
 ## General Information
-Rifters are exiles of [[The Rift]], widely considered the most important and one of the three main [[Vectorpoints]]. They are thrown out of The Rift with no real way to predict when or why one appears. Upon exiting, they can be identified by the sheer level of [[Rift Energy]] they exert into the world around them.
+Rifters are exiles of [[The Rift]], thrown out of it's mantle at shocking mangitude. There is with real way to predict when or why one appears. Upon exiting, they can be identified by the sheer level of [[Rift Energy]] they exert into the world around them.
 ## History
 Throughout history, the appearance of Rifters has typically coincided with a period of disarray, either occurring or forthcoming. It is widely considered a sign of The Rift detecting danger or rising tension that cannot be handled by the [[Arsborne]] alone. 
 
 There is no known written record that documents any one person as the "First Rifter," however, much of history widely considered The First Hero to likely have been the beginning. Following the [[Scavenger Tragedy]], The Crimson Witch was then documented to likely have been the first.
 
-Rifters have been both praised and persecuted. Due to their ambiguity for being good or evil, there have been many notable cases of Rifters being killed by betrayal rather than in battle. However, [[The Emperor]] forbade Rifter Persecution in **TODO DATE** and no notable cases have risen since.
+Rifters have been both praised and persecuted. Due to their ambiguity for being good or evil, there have been many notable cases of Rifters being killed by betrayal rather than in battle. However, [[Arie Solaryn|The Emperor]] forbade Rifter Persecution in **TODO DATE** and no notable cases have risen since.
 #### Rifter Memory Loss
 Upon entering the Ars, all known Rifters have seemingly lost all traces of memory. Various restoration attempts both magical and physical have been made, however, all have failed. This fact has led to very little to be known about where Rifters come from aside from their dimension of Origin.
 #### Dimension of Origin
