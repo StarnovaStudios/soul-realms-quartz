@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      title: "Navigator",
+      title: "🧭 Navigator",
     }),
   ],
   right: [
@@ -66,7 +66,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      title: "Navigator",
+      title: "🧭 Navigator",
     }),
   ],
   right: [],
